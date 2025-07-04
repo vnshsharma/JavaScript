@@ -115,14 +115,3 @@ Here’s a complete list of fundamental and advanced topics you should cover whi
 - Making HTTP requests
 - Working with APIs
 
----
-
-## 📺 Learn JavaScript From Chai aur Code ☕️
-
-A fantastic YouTube series to learn JavaScript (in Hindi) is by **Chai aur Code**.
-
-📌 **Watch the Playlist:**  
-[![Chai aur Code JavaScript Playlist](https://img.youtube.com/vi/8zKuNo4ay8E/0.jpg)](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa)
-
-👉 [Click here to start learning](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa)
-
